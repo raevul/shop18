@@ -1,0 +1,51 @@
+/* h1{
+    color: red;
+    font-size: 12px;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+} */
+
+
+/* .classH1{
+    background-color: darkorange;
+    color: white;
+} */
+
+span{
+    display: block;
+}
+
+p{
+    display: inline;
+}
+
+body{
+    background-color: gold;
+}
+h2{
+    background-color: aqua;
+}
+p{
+    color: yellow;
+}
+
+button{
+    color: red;
+}
+
+#btn{
+    background-color: aqua;
+    display: inline;
+    color: red;
+    width: 200px;
+    height: 80px;
+    font-size: 25px;
+    margin: 0 auto;
+    display: block;
+}
+
+
+
+
+
